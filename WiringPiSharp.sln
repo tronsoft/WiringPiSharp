@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{67D2FC7D-FBE1-479A-9DC6-B8152D3FA7DF}"
 	ProjectSection(SolutionItems) = preProject
 		License.txt = License.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiringPiSharp", "WiringPiSharp\WiringPiSharp.csproj", "{7365201A-7656-4910-9666-8C082E154757}"
