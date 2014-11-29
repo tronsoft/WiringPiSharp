@@ -3,7 +3,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace WiringPi.Net
+namespace WiringPiSharp
 {
     public static class Threads
     {

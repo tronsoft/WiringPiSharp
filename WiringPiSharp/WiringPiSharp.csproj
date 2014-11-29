@@ -7,8 +7,8 @@
     <ProjectGuid>{7365201A-7656-4910-9666-8C082E154757}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WiringPi.Net</RootNamespace>
-    <AssemblyName>WiringPi.Net</AssemblyName>
+    <RootNamespace>WiringPiSharp</RootNamespace>
+    <AssemblyName>WiringPiSharp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
