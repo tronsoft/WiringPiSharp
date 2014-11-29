@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{67D2FC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiringPiSharp", "WiringPiSharp\WiringPiSharp.csproj", "{7365201A-7656-4910-9666-8C082E154757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{C5BC9EE7-C458-45A6-A046-943D16333C75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7365201A-7656-4910-9666-8C082E154757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7365201A-7656-4910-9666-8C082E154757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7365201A-7656-4910-9666-8C082E154757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BC9EE7-C458-45A6-A046-943D16333C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BC9EE7-C458-45A6-A046-943D16333C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BC9EE7-C458-45A6-A046-943D16333C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BC9EE7-C458-45A6-A046-943D16333C75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
